@@ -48,12 +48,10 @@ Finally, a smart function meticulously reconstructs the text. It iterates throug
 > Python 3.12
 
 ## Installation
-Clone the repository (or download the Zip File):
+Clone the repository (or download the zip file):
 
 `git clone https://github.com/your-username/advanced-abstractive-summarization.git`
 `cd advanced-abstractive-summarization`
-
-
 
 Install the necessary Python libraries provided in requirements.txt file:
 
@@ -71,42 +69,6 @@ Run the Python script Task2.py directly. Provide the audio file location to get 
 
 ![image](https://github.com/user-attachments/assets/d239df42-82df-490b-b1c7-dd5005120d91)
 
-
-
 * Transcript Output
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/26e5021b-2b45-4a4a-bd1f-140a9297f8fd)
