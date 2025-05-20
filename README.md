@@ -67,6 +67,10 @@ Run the Python script Task2.py directly. Provide the audio file location to get 
 ## Output
 * User Input
 
+![image](https://github.com/user-attachments/assets/7a0e7c01-6b1a-44a2-9a14-6166ae51bc74)
+
+![image](https://github.com/user-attachments/assets/d239df42-82df-490b-b1c7-dd5005120d91)
+
 
 
 * Transcript Output
