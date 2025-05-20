@@ -29,16 +29,47 @@ The real innovation lies in the subsequent punctuation restoration phase. Unlike
 
 Finally, a smart function meticulously reconstructs the text. It iterates through the words, inserting the predicted punctuation marks where appropriate. This includes minor clean-up to ensure correct spacing around the punctuation. The result is a transcription that is not only accurate in converting speech to text but also features proper sentence segmentation and punctuation, vastly enhancing its clarity and making it much more natural to read.
 
-### Key Components & Benefits
+### Key Components
 * Two-Stage Processing:
   1. Transcription: Uses Wav2Vec2 for robust speech-to-text conversion.
   2. Punctuation: Employs a specialized language model for intelligent punctuation restoration.
 * Audio Resampling: The Wav2Vec2Processor automatically resamples audio to 16,000 Hz, ensuring optimal compatibility and performance with the transcription model.
 * Contextual Punctuation: The punctuation model leverages linguistic context to accurately place commas, periods, question marks, and other punctuation, rather than relying on simple heuristics.
-* Enhanced Readability: The final output is significantly easier to read and understand, as it includes proper sentence breaks and diverse punctuation marks.
-* Improved User Experience: A well-punctuated transcript is crucial for many applications, from generating meeting notes to creating accessible content and subtitles.
+
+### Features
+* Complete Speech-to-Text: Converts audio into text.
+* Advanced Transcription: Uses Wav2Vec2 deep learning model for accurate speech recognition.
+* Smart Audio Processing: Automatically resamples audio to 16,000 Hz for optimal model performance.
+* Intelligent Punctuation: Employs a dedicated AI model to add contextual punctuation (periods, commas, etc.), significantly improving readability.
+* Enhanced Readability: Produces clear, well-punctuated transcripts for better understanding.
+* Modular & Extensible: Built with Hugging Face transformers, allowing easy customization and integration.
+
+## Prerequisites
+> Python 3.12
+
+## Installation
+Clone the repository (or download the Zip File):
+
+`git clone https://github.com/your-username/advanced-abstractive-summarization.git`
+`cd advanced-abstractive-summarization`
 
 
+
+Install the necessary Python libraries provided in requirements.txt file:
+
+`pip install -r requirements.txt`
+
+> The script will attempt to download required models automatically upon first run.
+
+## Running
+Run the Python script Task2.py directly. Provide the audio file location to get transcripts .
+
+## Output
+* User Input
+
+
+
+* Transcript Output
 
 
 
