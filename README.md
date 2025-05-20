@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH KUMAR
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 > This repository contains a Python script for audio transcription, converting audio files (.wav) into text using pre-trained models.
 
