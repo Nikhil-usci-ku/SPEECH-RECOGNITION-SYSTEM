@@ -51,6 +51,7 @@ Finally, a smart function meticulously reconstructs the text. It iterates throug
 Clone the repository (or download the zip file):
 
 `git clone https://github.com/Nikhil-usci-ku/SPEECH-RECOGNITION-SYSTEM.git`
+
 `cd SPEECH-RECOGNITION-SYSTEM`
 
 Install the necessary Python libraries provided in requirements.txt file:
